@@ -1,1 +1,2 @@
-web: python main.py
+web: 
+web: python main.py:app --log-file -
